@@ -19,13 +19,11 @@
 
 ## NÃO SABE?
 - Entendemos que para manipular arquivos e muitas linguagens relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos subsidios:
-* [CURSO DE PYSCRIPT](https://github.com/VILHALVA/CURSO-DE-PYSCRIPT)
 * [CURSO DE BOOTSTRAP](https://github.com/VILHALVA/CURSO-DE-BOOTSTRAP)
 * [VEJA A DOCUMENTAÇÃO DO "REPL"](https://realpython.com/python-repl/)
 * [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 ## CREDITOS:
+- [PROJETO CRIADO PARA O CURSO DE PYSCRIPT](https://github.com/VILHALVA/CURSO-DE-PYSCRIPT)
 - [PROJETO FEITO PELO VILHALVA](https://github.com/VILHALVA)
-- [VEJA O VIDEO DESSE PROJETO](https://youtu.be/2NUBDqkHyoA?si=2Jq4htc9sD0FxAMm)
-- [VEJA A PLAYLIST DE PROJETOS](https://youtube.com/playlist?list=PLpdmBGJ6ELUJ2ujkBcMQ3n0D2J2exAVTs&si=ljt5tDj6-IU1Rn7w)
 
